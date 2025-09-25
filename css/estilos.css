@@ -1,0 +1,52 @@
+
+body{
+	background-color: black
+}
+
+.cube{
+	display: block;
+	width: 140px;
+	height: 180px;
+	overflow: hidden;
+	border: 5px	solid rgba(255, 102, 0, 1.0);
+	margin: 0 auto;
+
+}
+
+#imagen{
+	width: 100%;
+	height: 100vh;
+	background: url("C:/Users/damia/Desktop/Sitio3/img/ProyectN°1ult.png") top center;
+	background-size: cover;
+	padding: 10%;
+	font-family: "Bree Serif", serif;
+	color: lightyellow;
+	font-size: 22px;
+	text-align: center;
+
+}
+
+.navbar{
+	background-color: black !important;
+}
+
+.nav-link{
+	color: white !important;
+	font-family: "Bree Serif", serif;
+	font-size: 20px;
+}
+
+#pres{
+	padding-left: 20% ;
+	padding-right: 20%;
+	text-align: center;
+	color: white;
+}
+
+.trabajos{
+	text-align: center;
+	font-family: "Quicksand", sans-serif;
+	font-size: 15px;
+	padding: 5%;
+	color: white;
+}
